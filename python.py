@@ -1,2 +1,5 @@
 for i in range(5):
     print(i)
+
+def add(x,y):
+    return x + y
