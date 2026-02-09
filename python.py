@@ -3,3 +3,5 @@ for i in range(5):
 
 def add(x,y):
     return x + y
+
+I wanna learn object orineted programing
